@@ -12,6 +12,6 @@ If you accidentally make two or more purchases of the same product, you are elig
 Your order ID (from lemon squeeze)
 Proof of duplicate billing
 
-4. Support Contact
+3. Support Contact
 
 For technical assistance or to report duplicate purchases, please email edipriatama23@gmail.com
